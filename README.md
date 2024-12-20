@@ -1,2 +1,5 @@
-# perceptron
-A simple linear separator, fashioned after the original Perceptron developed in 1957.
+# Perceptron
+A simple [linear separator]([url](https://en.wikipedia.org/wiki/Binary_classification)). Inspired by lectures and slides by prof. Ray Mooney, Univeristy of Texas at Austin, describing the original [Perceptron]([url](https://en.wikipedia.org/wiki/Perceptron)) developed by Frank Rosenblatt in 1957. This implementation uses examples represented as 2-tuples of the following form:
+((input weights), classification)
+Where the first item is a weight vector represented as a k-tuple, and the second item is the classification modeled as True or False. An example of the Perceptron class in use is provided at the end of the file perceptron.py. 
+
