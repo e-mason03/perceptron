@@ -48,7 +48,7 @@ class Perceptron:
     Classifies the training example using the current weight vector.
     If the dot product of the weight vector and the example
     is greater than or equal to the threshold, return True.
-    Return false otherwise.
+    Return False otherwise.
 
     Assumes example is a k-tuple representing a weight vector.
     """
