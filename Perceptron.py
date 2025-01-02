@@ -1,6 +1,6 @@
 """
 A simple implementation of a linear separator.
-Inspired by lectures and slides by Ray Mooney, Univeristy of Texas at Austin,
+Inspired by lectures and slides by Ray Mooney, University of Texas at Austin,
 describing the original Perceptron developed by Frank Rosenblatt in 1957.
 
 Written by Ethan Mason.
