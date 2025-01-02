@@ -1,5 +1,5 @@
 # Perceptron
-A simple [linear separator](https://en.wikipedia.org/wiki/Binary_classification). Inspired by lectures and slides by prof. Ray Mooney, Univeristy of Texas at Austin, describing the original [Perceptron](https://en.wikipedia.org/wiki/Perceptron) developed by Frank Rosenblatt in 1957. This implementation uses examples represented as 2-tuples of the following form:
+A simple [linear separator](https://en.wikipedia.org/wiki/Binary_classification). Inspired by lectures and slides by prof. Ray Mooney, University of Texas at Austin, describing the original [Perceptron](https://en.wikipedia.org/wiki/Perceptron) developed by Frank Rosenblatt in 1957. This implementation uses examples represented as 2-tuples of the following form:
 
 `((input weights), classification)`
 
